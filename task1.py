@@ -1,0 +1,1 @@
+print('Name: Areg, region: Gexarkunik, village: Covinar')
