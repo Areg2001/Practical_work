@@ -9,8 +9,8 @@ if count == 1:
     raise ZeroDivisionError('There are 0 elements')
 
 def Arithmetic_average(numbers):
-    return res/(count - 1)
+    return numbers/(count - 1)
 
-print(Arithmetic_average(number))    
+print(Arithmetic_average(res))    
 
 
