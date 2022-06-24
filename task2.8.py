@@ -11,8 +11,6 @@ def isSublist(data1, data2):
             return True
             
     return False                
-
-
     
 print(isSublist(larger, smaller))        
                     
